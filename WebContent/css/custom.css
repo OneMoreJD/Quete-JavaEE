@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #157898;
+	padding: 50px 30vw;
+}
+
+p {
+	font: 5em Arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	display: inline;
+}
